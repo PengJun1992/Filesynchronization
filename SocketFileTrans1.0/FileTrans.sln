@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileServer", "FileServer\FileServer.csproj", "{EE35685B-2C16-4D21-A2BB-3DEBBDAE460F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileClient", "FileClient\FileClient.csproj", "{E9097555-FAA9-4D44-922E-950324F14745}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE35685B-2C16-4D21-A2BB-3DEBBDAE460F}.Debug|x86.ActiveCfg = Debug|x86
+		{EE35685B-2C16-4D21-A2BB-3DEBBDAE460F}.Debug|x86.Build.0 = Debug|x86
+		{EE35685B-2C16-4D21-A2BB-3DEBBDAE460F}.Release|x86.ActiveCfg = Release|x86
+		{EE35685B-2C16-4D21-A2BB-3DEBBDAE460F}.Release|x86.Build.0 = Release|x86
+		{E9097555-FAA9-4D44-922E-950324F14745}.Debug|x86.ActiveCfg = Debug|x86
+		{E9097555-FAA9-4D44-922E-950324F14745}.Debug|x86.Build.0 = Debug|x86
+		{E9097555-FAA9-4D44-922E-950324F14745}.Release|x86.ActiveCfg = Release|x86
+		{E9097555-FAA9-4D44-922E-950324F14745}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
